@@ -1,0 +1,16 @@
+#collor1, #collor2, #collor3, #collor4, #collor5, #collor6
+{
+    height: 55px;
+
+    margin: 20px;
+    border: 1px solid black;
+
+
+}
+
+#collor1{ background-color: #2C3E50}
+#collor2{ background-color: #4183D7}
+#collor3{ background-color: #6CACD4}
+#collor4{ background-color: #663399}
+#collor5{ background-color: #999}
+#collor6{ background-color: #ffffff}
