@@ -6,6 +6,7 @@ body{
     margin: 0
     
 }
+
 .sf-grid__container{
     height: 100%;
     padding-left: 0;
@@ -21,12 +22,28 @@ body{
 .full_height{
     height: 100%;
 }
+
+
 .basic_info{
     height: ;
-    background-color: gray;
+    background-color: #403f3f;
 }
+
+.basic_info h1{
+    text-align: left;
+    margin-left: 10%;
+    margin-bottom: ;
+}
+
+#profile_pic{
+    width: 100%
+}
+
+
+
+
+
 .items{
-    margin: 10p;
     text-align: center;
     margin-bottom: 10px;
 }
@@ -61,3 +78,5 @@ body{
     visibility: hidden; 
     transition: 0.4s;
 }
+
+
